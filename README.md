@@ -16,4 +16,4 @@ Hola este es mi juego de la serpiente
 
 ##Instalacion 
 
-https://rezemd56-hash.github.io/Snake/
+https://rezemd56-hash.github.io/Snake/ 
