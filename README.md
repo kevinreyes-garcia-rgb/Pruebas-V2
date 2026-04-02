@@ -1,3 +1,8 @@
 aloz 
 
->oan
+<details>
+  <summary>>/<summary>
+    arroz con pan 
+    
+  </details
+
