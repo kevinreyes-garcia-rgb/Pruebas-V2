@@ -5,9 +5,11 @@ aloz
 
   ```
   xd
+</details>
 
 ---
 
-![foto]()
+##Photo 1
+![Cover](https://files.catbox.moe/1gelrt.jpeg)
 
 ---
