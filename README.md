@@ -1,7 +1,5 @@
 aloz 
 
 <details>
-  <summary>>/<summary>
-    arroz con pan 
-  </details>
+  <summary>/<summary>xd</details>
 
