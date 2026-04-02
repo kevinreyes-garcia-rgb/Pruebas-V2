@@ -8,7 +8,6 @@ aloz
 
 ---
 
-##foto
 ![foto]()
 
 ---
