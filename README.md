@@ -8,6 +8,5 @@ aloz
   ```
   xd
   
-  </details>
-|
-ndrdxfhdhehjaewjhjegherhtrghtr
+</details>
+ngeiunfiuoer
