@@ -1,8 +1,6 @@
 aloz 
 
 <details>
-  <summary>Ver ejemplo de código</summary>
+  <summary>Clip</summary>
 
-  ```python
-  def saludo():
-      print("¡Hola, mundo!")
+  ```SUFROOOOOOOOOOOOOOOO
