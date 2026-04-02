@@ -1,3 +1,3 @@
 aloz 
 
-^pan
+<oan
